@@ -1,0 +1,10 @@
+Controller\PessoaController.class
+org\example\Model\Endereco.class
+org\example\Model\Filiacao.class
+Service\PessoaService.class
+org\example\Enum\TipoSanguineo.class
+org\example\Main.class
+org\example\Model\Pessoa.class
+org\example\Model\Contato.class
+Swagger\SwaggerConfig.class
+org\example\Model\Documento.class
